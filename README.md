@@ -196,7 +196,7 @@ pip install -e .
 | ------------------------------------------------------------------------------------------------------- | --------------- | --------- | ---------------------------------- |
 | [octopus-v2](https://www.nexaai.com/NexaAI/Octopus-v2/gguf-q4_0/readme)                                 | NLP             | GGUF      | `nexa run octopus-v2`              |
 | [octopus-v4](https://www.nexaai.com/NexaAI/Octopus-v4/gguf-q4_0/readme)                                 | NLP             | GGUF      | `nexa run octopus-v4`              |
-| [gpt2](https://nexaai.com/openai/gpt2/gguf-q4_0/readme)                                                 | NLP             | GGUF/ONNX | `nexa run gpt2`                    |
+| [gpt2](https://nexaai.com/openai/gpt2/gguf-q4_0/readme)                                                 | NLP             | GGUF      | `nexa run gpt2`                    |
 | [tinyllama](https://www.nexaai.com/TinyLlama/TinyLlama-1.1B-Chat-v1.0/gguf-fp16/readme)                 | NLP             | GGUF      | `nexa run tinyllama`               |
 | [llama2](https://www.nexaai.com/meta/Llama2-7b-chat/gguf-q4_0/readme)                                   | NLP             | GGUF/ONNX | `nexa run llama2`                  |
 | [llama2-uncensored](https://www.nexaai.com/georgesung/Llama2-7b-chat-uncensored/gguf-q4_0/readme)       | NLP             | GGUF      | `nexa run llama2-uncensored`       |
