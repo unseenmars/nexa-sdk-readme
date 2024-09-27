@@ -240,7 +240,7 @@ pip install -e .
 | [faster-whisper-base](https://www.nexaai.com/Systran/faster-whisper-base/bin-cpu-fp16/readme)           | Audio           | BIN       | `nexa run faster-whisper-base`     |
 | [faster-whisper-large](https://www.nexaai.com/Systran/faster-whisper-large-v3/bin-cpu-fp16/readme)      | Audio           | BIN       | `nexa run faster-whisper-large`    |
 | [whisper-tiny.en](https://nexaai.com/openai/whisper-tiny.en/onnx-cpu-fp32/readme)                       | Audio           | ONNX      | `nexa run whisper-tiny.en`         |
-| [whisper-tiny](https://nexaai.com/openai/whisper-tiny/onnx-cpu-fp32/readme)                             | Audio           | BIN/ONNX  | `nexa run whisper-tiny`            |
+| [whisper-tiny](https://nexaai.com/openai/whisper-tiny/onnx-cpu-fp32/readme)                             | Audio           | ONNX  | `nexa run whisper-tiny`            |
 | [whisper-small.en](https://nexaai.com/openai/whisper-small.en/onnx-cpu-fp32/readme)                     | Audio           | ONNX      | `nexa run whisper-small.en`        |
 | [whisper-small](https://nexaai.com/openai/whisper-small/onnx-cpu-fp32/readme)                           | Audio           | ONNX      | `nexa run whisper-small`           |
 | [whisper-base.en](https://nexaai.com/openai/whisper-base.en/onnx-cpu-fp32/readme)                       | Audio           | ONNX      | `nexa run whisper-base.en`         |
